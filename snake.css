@@ -1,0 +1,11 @@
+.field {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    padding: 1px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
